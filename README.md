@@ -18,4 +18,6 @@
 </a>
 </p>
 
-An open source scientific article created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+*This is an automatically generated test for [showyourwork](https://github.com/showyourwork/showyourwork) generated from the file [test_include.py](https://github.com/showyourwork/showyourwork/blob/main/tests/integration/test_include.py).*
+
+Test a workflow with rules split accross files
